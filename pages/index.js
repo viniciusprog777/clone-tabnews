@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Eu não sou um trouxa!</h1>
+    return <h1>Você vai conseguir, acredite em você!</h1>
 };
 
 export default Home;
